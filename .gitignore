@@ -1,0 +1,7 @@
+google-cloud-sdk/
+google-cloud-sdk/*
+*.json
+anthoscli
+__pycache__/
+*.pyc
+.env
