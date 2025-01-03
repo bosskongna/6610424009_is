@@ -1,0 +1,8 @@
+streamlit==1.41.1
+pandas==2.1.0
+numpy==1.25.1
+google-cloud-storage==2.10.0
+bcrypt==4.0.1
+pytz==2023.3
+gcsfs==2023.10.0  # Or another appropriate version
+vertexai
