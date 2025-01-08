@@ -1,0 +1,10 @@
+google-cloud-sdk/
+google-cloud-sdk/*
+*.json
+anthoscli
+pycache/
+*.pyc
+.env
+.streamlit/secrets.toml
+usage_counts
+user_logs
